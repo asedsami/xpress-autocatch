@@ -1,0 +1,12 @@
+{
+  "name": "xpress-autocatch",
+  "version": "0.0.4",
+  "description": "",
+  "main": "index.js",
+  "author": "Sami Ghayeni asedsami@gmail.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asedsami/xpress-autocatch.git"
+  }
+}
